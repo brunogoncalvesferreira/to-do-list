@@ -16,7 +16,7 @@ Projeto construido com base nos conceitos adquiridos no módulo 1 do curso.
 ![preview](./.github/preview2.png)
 ![preview](./.github/preview3.png)
 
-[Clique aqui para acessar](https://todoreactjs-brunogoncalvesferreira.vercel.app)
+[Clique aqui para acessar](https://to-do-list-three-theta.vercel.app/)
 
 ## 🚀 Tecnologias
 
