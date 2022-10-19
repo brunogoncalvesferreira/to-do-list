@@ -54,6 +54,4 @@ Responsável pelo desenvolvimento do projeto
 [<img src="https://github.com/brunogoncalvesferreira.png" width=90><br><sub>Bruno Gonçalves Ferreira</sub>](https://github.com/brunogoncalvesferreira)
 
 Copyright : 2022 - ToDoList com ReactJS
-# to-do-list
-# to-do-list
-# to-do-list
+
