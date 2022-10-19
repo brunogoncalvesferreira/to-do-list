@@ -1,0 +1,48 @@
+.task {
+  background-color: var(--gray500);
+  border-radius: 8px;
+
+  max-width: 739px;
+  width: 90%;
+  margin: 1.5rem auto;
+  height: 4.5rem;
+  padding: 1rem;
+
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.task button {
+  width: 24px;
+
+  display: flex;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+}
+
+.task p {
+  margin-inline: 0.75rem;
+  width: 100%;
+
+  font-size: 0.875rem;
+  color: var(--gray100);
+}
+
+.task p.isCompleted {
+  text-decoration: line-through;
+  opacity: 0.5;
+}
+
+.done {
+  color: var(--blue);
+}
+
+.trash {
+  color: var(--gray300);
+}
+
+.trash:hover {
+  color: var(--danger);
+}

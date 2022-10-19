@@ -1,0 +1,7 @@
+.container header {
+  text-align: center;
+
+  width: 100%;
+  padding: 4.5rem 0 5rem 0;
+  background-color: var(--gray700);
+}

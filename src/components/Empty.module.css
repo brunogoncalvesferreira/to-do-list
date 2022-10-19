@@ -1,0 +1,29 @@
+.container {
+  max-width: 739px;
+  width: 90%;
+  margin: 1.5rem auto 0 auto;
+
+  text-align: center;
+}
+
+.container .divider {
+  padding-top: 1.5rem;
+
+  border-top: 1px solid var(--gray400);
+  border-radius: 8px;
+}
+
+.container img {
+  margin: 4rem auto 4.5rem auto;
+}
+
+.container p {
+  max-width: 330px;
+  margin: auto;
+  color: var(--gray300);
+}
+
+.container p span {
+  display: block;
+  font-weight: 700;
+}
